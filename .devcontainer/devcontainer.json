@@ -1,3 +1,6 @@
+"features": {
+  "ghcr.io/devcontainers/features/github-cli:1": {}
+}
 {
   "name": "Codeinstitute template",
   "dockerComposeFile": "docker-compose.yml",
